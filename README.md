@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/7bde2c30-46ee-40f5-aa4c-f10acc135807" width="600" />
+  <img src="https://github.com/user-attachments/assets/ff92edf1-b1d9-42b3-9ff2-672307b5ab8f" width="530" />
 </div>
 
 ## > Who am I?
@@ -14,7 +14,6 @@ For further information, feel free to reach out via email or GitHub.
 
 
 <div align="center">
-  <h3 align="center">💻 Tools I use:</h3>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/python-3776A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
@@ -24,3 +23,16 @@ For further information, feel free to reach out via email or GitHub.
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </div>
 <!-- jesus -->
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=f&theme=apprentice&hide_border=false&include_all_commits=true&count_private=false)
+<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=f&theme=apprentice&hide_border=false)
+<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=f&theme=apprentice&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<br/>
+[![](https://visitcount.itsvg.in/api?id=f&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
