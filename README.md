@@ -23,6 +23,7 @@ For further information, feel free to reach out via email or GitHub.
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </div>
 <!-- jesus -->
+<!-- let me out -->
 
 <div align="center">
 
