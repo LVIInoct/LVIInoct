@@ -2,22 +2,12 @@
 
  I'm Noctiluzenit, a self-taught developer.
 - I am fluent in both Portuguese and English, with a certificate from EF Education First English course.
-- I'm currently studying CS50 and FCC software engineering with videos, notes and other developers' experiences.
+- I'm currently studying MIT OCW (Advanced Algorithms) and FCC software engineering with videos, notes and other developers' experiences.
 - I work mostly with C and Python to implement computer science fundamentals. Problem submissions and practice will be posted.
 - My goal with this profile is to show my abilities for in-person job interviews.
 
 For further information, feel free to reach out via email or GitHub.
 
-
-<div align="center">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/python-3776A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-</div>
 <!-- jesus -->
 <!-- let me out -->
 
