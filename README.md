@@ -6,7 +6,7 @@
 - I work mostly with C and Python to implement computer science fundamentals. Problem submissions and practice will be posted.
 - My goal with this profile is to show my abilities for in-person job interviews.
 
-For further information, feel free to reach out via email or GitHub.
+For further information, feel free to reach out via email or through GitHub itself.
 
 <!-- jesus -->
 <!-- let me out -->
